@@ -26,9 +26,7 @@ nameing used in this example:
 
 7) the `HEAD` section to the `=======` section is the code from developer 2 and the `=======` section to the 
 `branch master.....` is the code of V2 which is committed and pushed into github previously
-<br/>
 ![](Untitled6.jpg)
-<br/>
 
 8) developer2 will manually edit the codes and save it, then he will go to git staging view panel and if the file is under `Unstaged Changes` then developer2 will right-click the file and `Add Index` then drag it to `Staged changes` and click commit and push.
 Note: any file under `Unstaged Changes` cannot be commited and only files under `Add Index` will be able to be commmitted.
