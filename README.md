@@ -19,14 +19,6 @@ nameing used in this example:
 
 6) eclipse will then prompt developer 2 on the pull result and update the file which have conflicts, u will then see the pic below
 
-<<<<<<< HEAD
-		if(true){
-			System.out.println("true");
-		}
-=======
-		String a = "asd";
-		System.out.println(a);
->>>>>>> branch 'master' of https://github.com/melvintan1985mm/demo.git
 
 7) the `<<<<<<< HEAD` to the `=======` section is the code from developer 2 and the `=======` section to the 
 `>>>>>>> branch 'mas.....` is the code of V2 which is committed and pushed into github previously
