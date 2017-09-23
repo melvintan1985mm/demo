@@ -3,11 +3,11 @@ package test;
 public class demoClass {
 
 	public static void main(String[] args) {
-		
-		if(true){
+		//hahahaha
+		if("asd"=="asd"){
 			System.out.println("true");
 		} else if (!true) {
-			System.out.println("false");
+			// do nothing
 		}
 
 		// TODO Auto-generated method stub
