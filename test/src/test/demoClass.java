@@ -8,12 +8,11 @@ public class demoClass {
 		String a = "asd";
 		System.out.println(a);
 		
-		if(true){
+		if(a=="asd"){
 			System.out.println("true");
 		} else {
 			System.out.println("false");
 		}
-					
 	}
 
 }
